@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/src/gtest_main.cc \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/gtest.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-internal.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-port.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-port-arch.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/custom/gtest-port.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/gtest-message.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-string.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-filepath.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-type-util.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/gtest-death-test.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/gtest-param-test.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-param-util.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-linked_ptr.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/gtest-printers.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/custom/gtest-printers.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/internal/gtest-param-util-generated.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/gtest_prod.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/gtest-test-part.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/gtest-typed-test.h \
+  /Users/toz700/Documents/programming/ctuple/googletest/googletest/include/gtest/gtest_pred_impl.h
